@@ -1,2 +1,1 @@
-# hello-world
-first repository on gitHub
+I am shafqat jamil khan a passionate game developer
